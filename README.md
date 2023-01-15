@@ -1,4 +1,5 @@
 # Desktop Preview
+![Alt text](demo/desktop-view.png?raw=true "Optional Title")
 demo/desktop-view.png
 
 # Mobile Preview
