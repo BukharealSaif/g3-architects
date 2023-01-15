@@ -4,6 +4,6 @@ demo/desktop-view.png
 
 # Mobile Preview
 <p align="center">
-  <img width="460" height="300" src="demo/mobile-view.png">
+  <img src="demo/mobile-view.png">
 </p>
 ![Mobile Preview](demo/mobile-view.png?raw=true "Optional Title")
